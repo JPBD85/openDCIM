@@ -1,0 +1,64 @@
+#: includes/devices.php:120
+msgid "Work Area"
+msgstr "Área de trabajo"
+
+#: includes/devices.php:121
+msgid "Description of the work area in the structured cabling."
+msgstr "Descripción del área de trabajo en el cableado estructurado."
+
+#: includes/devices.php:130
+msgid "Horizontal Cabling"
+msgstr "Cableado horizontal"
+
+#: includes/devices.php:131
+msgid "Connects the work area to the telecommunications room."
+msgstr "Conecta el área de trabajo con el armario de telecomunicaciones."
+
+#: includes/devices.php:140
+msgid "Telecommunications Room"
+msgstr "Armario de telecomunicaciones"
+
+#: includes/devices.php:141
+msgid "Room housing patch panels and intermediate connection devices."
+msgstr "Sala donde se alojan paneles de parcheo y dispositivos de conexión intermedia."
+
+#: includes/devices.php:150
+msgid "Equipment Room"
+msgstr "Sala de equipos"
+
+#: includes/devices.php:151
+msgid "Central room with equipment such as switches, DVR, ISP router and UPS."
+msgstr "Sala central con equipos como switch, DVR, router del proveedor de internet y UPS."
+
+#: includes/devices.php:160
+msgid "Backbone Cabling"
+msgstr "Cableado backbone"
+
+#: includes/devices.php:161
+msgid "Links telecommunications rooms and equipment rooms."
+msgstr "Vincula los armarios de telecomunicaciones con las salas de equipos."
+
+#: includes/devices.php:170
+msgid "Entrance Facility"
+msgstr "Instalación de entrada"
+
+#: includes/devices.php:171
+msgid "Point where the external cabling enters the building and connects to the internal network."
+msgstr "Punto donde el cableado externo ingresa al edificio y se conecta con la red interna."
+
+#: includes/devices.php:180
+msgid "ISP Equipment"
+msgstr "Equipo del proveedor de internet"
+
+#: includes/devices.php:181
+msgid "Includes modem or router provided by the ISP, usually located in the equipment room."
+msgstr "Incluye el módem o router proporcionado por el proveedor de internet, normalmente ubicado en la sala de equipos."
+
+#: includes/devices.php:190
+msgid "UPS System"
+msgstr "Sistema UPS"
+
+#: includes/devices.php:191
+msgid "Uninterruptible Power Supply to keep network equipment running during outages."
+msgstr "Sistema de alimentación ininterrumpida que mantiene los equipos de red en funcionamiento durante cortes de energía."
+
